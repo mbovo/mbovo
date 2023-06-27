@@ -29,6 +29,6 @@
 
 _Want to know more?_ [See resume](https://mbovo.me/resume)
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=mbovo&count_private=true&show_icons=true)](https://github.com/mbovo)
+[![GitHub stats](https://github-readme-stats-sage-seven.vercel.app/api?username=mbovo&count_private=true&show_icons=true)](https://github.com/mbovo)
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/4ml2dgadx)
