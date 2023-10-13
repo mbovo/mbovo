@@ -1,6 +1,6 @@
 ### Sr. Infrastructure Engineer
-- **Kicking infrastructures since 2007**
-- _In love with automations and self-healing systems_
+- **Building and Kicking infrastructures since 2007**
+- _In love with automation and self-healing systems_
 ![](https://hit.yhype.me/github/profile?user_id=19665312)
 <!-- Made with love and https://shields.io/ -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mbovo-informational?style=social&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/mbovo/)
@@ -25,9 +25,7 @@
 [![Kubernetes](https://img.shields.io/badge/-kubernetes-blue?style=flat-square&logo=kubernetes&logoColor=white)](https://www.kubernetes.io/)
 [![GCP](https://img.shields.io/badge/-GCP-green?style=flat-square&logo=googlecloud&logoColor=white)](https://cloud.google.com)
 [![Azure](https://img.shields.io/badge/-Azure-008AD7?style=flat-square&logo=microsoftazure&logoColor=white)](https://azure.com)
-[![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=black)](https://github.com/mbovo)
-
-_Want to know more?_ [See resume](https://mbovo.me/resume)
+[![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=black)](https://aws.amazon.com/)
 
 [![GitHub stats](https://github-readme-stats-sage-seven.vercel.app/api?username=mbovo&count_private=true&show_icons=true)](https://github.com/mbovo)
 
