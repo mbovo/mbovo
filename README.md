@@ -3,8 +3,6 @@
 - _In love with automation and self-healing systems_
 ![](https://hit.yhype.me/github/profile?user_id=19665312)
 <!-- Made with love and https://shields.io/ -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-mbovo-informational?style=social&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/mbovo/)
-<a rel="me" href="https://hachyderm.io/@zroot"><img src="https://img.shields.io/mastodon/follow/108205617120208962?domain=https%3A%2F%2Fhachyderm.io&style=social" alt="@zroot@hachyderm.io"></a>
 
 [![OS](https://img.shields.io/badge/OS-macOS-informational?style=flat&logo=apple&logoColor=white)](https://en.wikipedia.org/wiki/MacOS)
 [![OS](https://img.shields.io/badge/OS-Arch-informational?style=flat&logo=archlinux&logoColor=white)](https://archlinux.org)
