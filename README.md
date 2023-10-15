@@ -29,5 +29,6 @@
 
 ![Top Langs](https://github-readme-stats-sage-seven.vercel.app/api/top-langs/?username=mbovo&layout=compact)
 
-Want to support my OpenSource contribution? 
+Want to support my OpenSource contributions?
+
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/4ml2dgadx)
