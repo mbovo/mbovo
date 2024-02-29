@@ -25,8 +25,3 @@
 [![GCP](https://img.shields.io/badge/-GCP-green?style=flat-square&logo=googlecloud&logoColor=white)](https://cloud.google.com)
 [![Azure](https://img.shields.io/badge/-Azure-008AD7?style=flat-square&logo=microsoftazure&logoColor=white)](https://azure.com)
 [![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=black)](https://aws.amazon.com/)
-
-[![GitHub stats](https://github-readme-stats-sage-seven.vercel.app/api?username=mbovo&count_private=true&show_icons=true&include_all_commits=true&rank_icon=percentile&show=prs_merged_percentage)](https://github.com/mbovo)
-
-![Top Langs](https://github-readme-stats-sage-seven.vercel.app/api/top-langs/?username=mbovo&layout=compact)
-
