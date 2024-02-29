@@ -13,6 +13,7 @@
 
 <a href="https://www.credly.com/badges/b03be37e-5e02-40e5-bc66-ccde0d81250c"><img src="https://images.credly.com/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" height="96px" width="96px" /></a>
 <a href="https://github.com/mbovo/mbovo/blob/main/certificate-gitops-fundamentals-6197cb3b2fbcec4da328aab2.pdf"><img alt="GitOps Certified - Fundamentals" src="https://lwfiles.mycourse.app/codefresh-public/custom/400x0_496953759882a1c17316bb7114216fc5.png" height="94px" width="162px"></a>
+<a href="https://github.com/mbovo/mbovo/blob/main/certificate-gitops-at-scale-2022-63242d42bf43907ba64a1709.pdf"><img alt="GitOps Certified - Scale" src="https://lwfiles.mycourse.app/codefresh-public/custom/400x0_90f89804dd47ebe26c52f7cc99163a38.png" height="94px" width="162px"></a>
 
 [![Python](https://img.shields.io/badge/-python-teal?style=flat-square&logo=python&logoColor=white)](https://python.org/)
 [![Go](https://img.shields.io/badge/-go-29BEB0?style=flat-square&logo=go&logoColor=white)](https://www.go.dev)
