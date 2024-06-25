@@ -11,9 +11,11 @@
 [![PGP](https://img.shields.io/badge/pgp%20-AA0D4D08E92328E4-green?style=flat&logo=Bitwarden&logoColor=white)](https://github.com/mbovo.gpg)
 [![PGP](https://img.shields.io/badge/pgp%20-78BBE16C3B6EC1C8-green?style=flat&logo=Bitwarden&logoColor=white)](https://keybase.io/bvomnl/pgp_keys.asc?fingerprint=f06e4e3168d9bd381938ec7c78bbe16c3b6ec1c8)
 
+<a href="https://www.credly.com/users/mbovo/badges" />My Badges and Certifications</a>
+
 <a href="https://www.credly.com/badges/b03be37e-5e02-40e5-bc66-ccde0d81250c"><img src="https://images.credly.com/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" height="96px" width="96px" /></a>
-<a href="https://github.com/mbovo/mbovo/blob/main/certificate-gitops-fundamentals-6197cb3b2fbcec4da328aab2.pdf"><img alt="GitOps Certified - Fundamentals" src="https://lwfiles.mycourse.app/codefresh-public/custom/400x0_496953759882a1c17316bb7114216fc5.png" height="94px" width="162px"></a>
-<a href="https://github.com/mbovo/mbovo/blob/main/certificate-gitops-at-scale-2022-63242d42bf43907ba64a1709.pdf"><img alt="GitOps Certified - Scale" src="https://lwfiles.mycourse.app/codefresh-public/custom/400x0_90f89804dd47ebe26c52f7cc99163a38.png" height="94px" width="162px"></a>
+<a href="https://www.credly.com/badges/0b184bcf-53bf-4645-b4e3-3eb0856d3141"><img alt="GitOps Certified - Fundamentals" src="https://images.credly.com/size/680x680/images/45d4a763-2533-46c2-b9e9-aa91e2e608fa/image.png" height="94px" width="162px"></a>
+<a href="https://www.credly.com/badges/71da594b-68ae-4c4c-94ad-dfc397e7379d"><img alt="GitOps Certified - Scale" src="https://images.credly.com/size/680x680/images/f9198c28-7232-4c52-b1dc-12dab1c465f0/image.png" height="94px" width="162px"></a>
 
 [![Python](https://img.shields.io/badge/-python-teal?style=flat-square&logo=python&logoColor=white)](https://python.org/)
 [![Go](https://img.shields.io/badge/-go-29BEB0?style=flat-square&logo=go&logoColor=white)](https://www.go.dev)
