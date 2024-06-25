@@ -8,7 +8,6 @@
 [![OS](https://img.shields.io/badge/OS-Arch-informational?style=flat&logo=archlinux&logoColor=white)](https://archlinux.org)
 [![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![HomeManager](https://img.shields.io/badge/Setup-Nix-informational?style=flat&logo=nixos&logoColor=white)](https://github.com/mbovo/home-manager)
-[![PGP](https://img.shields.io/badge/pgp%20-AA0D4D08E92328E4-green?style=flat&logo=Bitwarden&logoColor=white)](https://github.com/mbovo.gpg)
 [![PGP](https://img.shields.io/badge/pgp%20-78BBE16C3B6EC1C8-green?style=flat&logo=Bitwarden&logoColor=white)](https://keybase.io/bvomnl/pgp_keys.asc?fingerprint=f06e4e3168d9bd381938ec7c78bbe16c3b6ec1c8)
 
 <a href="https://www.credly.com/users/mbovo/badges" />My Badges and Certifications</a>
