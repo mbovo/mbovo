@@ -1,9 +1,6 @@
-### Infrastructure Engineer / SCM / SRE
-- **Building and Kicking infrastructures since 2007**
-- _In love with automation and self-healing systems_
+### Software / Infrastructure / Site Reliability Engineer
 ![](https://hit.yhype.me/github/profile?user_id=19665312)
 <!-- Made with love and https://shields.io/ -->
-
 [![OS](https://img.shields.io/badge/OS-macOS-informational?style=flat&logo=apple&logoColor=white)](https://en.wikipedia.org/wiki/MacOS)
 [![OS](https://img.shields.io/badge/OS-Arch-informational?style=flat&logo=archlinux&logoColor=white)](https://archlinux.org)
 [![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
