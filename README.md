@@ -9,7 +9,7 @@
 
 <a href="https://www.credly.com/badges/b03be37e-5e02-40e5-bc66-ccde0d81250c"><img src="https://images.credly.com/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" height="96px" width="96px" /></a>
 <a href="https://www.credly.com/badges/0b184bcf-53bf-4645-b4e3-3eb0856d3141"><img alt="GitOps Certified - Fundamentals" src="https://images.credly.com/size/680x680/images/6f4212c6-80e6-4819-833d-a652b0feaabb/blob" height="96px" width="96px"></a>
-<a href="https://www.credly.com/badges/71da594b-68ae-4c4c-94ad-dfc397e7379d"><img alt="GitOps Certified - Scale" src="https://images.credly.com/size/680x680/images/f9198c28-7232-4c52-b1dc-12dab1c465f0/image.png" height="96px" width="96px"></a>
+<a href="https://www.credly.com/badges/71da594b-68ae-4c4c-94ad-dfc397e7379d"><img alt="GitOps Certified - Scale" src="https://images.credly.com/size/680x680/images/0acce3e3-a7a4-44df-80ba-fcbf4bbdc147/blob" height="96px" width="96px"></a>
 
 [![Python](https://img.shields.io/badge/-python-teal?style=flat-square&logo=python&logoColor=white)](https://python.org/)
 [![Go](https://img.shields.io/badge/-go-29BEB0?style=flat-square&logo=go&logoColor=white)](https://www.go.dev)
